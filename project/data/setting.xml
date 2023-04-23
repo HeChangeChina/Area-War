@@ -1,0 +1,5 @@
+<setting>
+    <screen_width test="test">1920</screen_width>
+    <screen_height>1080</screen_height>
+	<frame_mode>full_screen</frame_mode>
+</setting>
