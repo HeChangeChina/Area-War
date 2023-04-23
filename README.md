@@ -6,9 +6,9 @@
 *所有场景均已应用5倍经济+5倍生产速度*  
 *游戏运行需要pygame库*  
 游戏运行截图：  
-![image](https://github.com/HeChangeChina/TransverseWar/tree/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/001.png)
-![image](https://github.com/HeChangeChina/TransverseWar/tree/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/002.png)
-![image](https://github.com/HeChangeChina/TransverseWar/tree/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/003.png)
+![image](https://github.com/HeChangeChina/TransverseWar/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/001.png)
+![image](https://github.com/HeChangeChina/TransverseWar/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/002.png)
+![image](https://github.com/HeChangeChina/TransverseWar/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/003.png)
 ***
 游戏操作方式：  
 游戏技能快捷键请查看技能图标左下角的按键文本  
